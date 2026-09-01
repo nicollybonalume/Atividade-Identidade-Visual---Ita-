@@ -1,60 +1,105 @@
-💳 Projeto Figma - Identidade Visual Itaú
-🟧 Nome do Projeto
 
-Identidade Visual Banco Itaú
+# 💳 **PROJETO FIGMA - IDENTIDADE VISUAL ITAÚ**
 
-👩‍💻 Nome do Aluno
+---
 
-Nicolly Silva Bonalume
+# 🟧 **NOME DO PROJETO**
 
-📚 Curso/Turma
+## Identidade Visual Banco Itaú
 
-Desenvolvimento de Sistemas (1IE-DS)
+---
 
-🎯 Objetivo do Projeto
+# 👩‍💻 **NOME DO ALUNO**
 
-Desenvolver uma identidade visual utilizando o Figma, aplicando conceitos de design como cores, tipografia e contraste, com o objetivo de criar um padrão visual organizado, moderno e consistente, inspirado na marca do Banco Itaú, para ser utilizado em todos os trabalhos e projetos do curso.
+## Nicolly Silva Bonalume
 
-🎨 Elementos Desenvolvidos
-🟧 Logo
-Baseado na identidade do Itaú
-Cor predominante: laranja
-Estilo simples e moderno
-🎨 Cores
-Paleta primária (tons de laranja)
-Paleta secundária (tons de azul)
-Cores neutras (preto, branco e cinza)
-Cores de feedback (sucesso e erro)
-🔤 Tipografia
-Fonte: Poppins
-Aplicação: títulos, subtítulos e textos
-🔠 Escala Tipográfica
-Small: 14px
-Parágrafo: 16px
-H5: 18px
-H4: 24px
-H3: 28px
-H2: 34px
-H1: 40px
-⚖️ Contraste
-Combinações de cores para melhor leitura
-Destaque de informações importantes
-Foco em acessibilidade
-🛠️ Ferramenta Utilizada
-Figma
-📂 Aplicação
+---
 
-Este modelo será utilizado em:
+# 📚 **CURSO/TURMA**
 
-Projetos escolares
-Interfaces digitais
-Protótipos
-Apresentações
-👨‍🏫 Orientação
+## Desenvolvimento de Sistemas (1IE-DS)
 
-Prof. Raul
-Prof. Denani
+---
 
-✅ Conclusão
+# 🎯 **OBJETIVO DO PROJETO**
 
-A criação de uma identidade visual padronizada facilita a organização dos projetos, melhora a comunicação visual e traz mais profissionalismo para os trabalhos desenvolvidos.
+## Desenvolver uma identidade visual utilizando o Figma, aplicando conceitos de design como cores, tipografia e contraste, com o objetivo de criar um padrão visual organizado, moderno e consistente, inspirado na marca do Banco Itaú, para ser utilizado em todos os trabalhos e projetos do curso.
+
+---
+
+# 🎨 **ELEMENTOS DESENVOLVIDOS**
+
+## 🟧 **LOGO**
+
+* Baseado na identidade do Itaú
+* Cor predominante: laranja
+* Estilo simples e moderno
+
+---
+
+## 🎨 **CORES**
+
+* Paleta primária (tons de laranja)
+* Paleta secundária (tons de azul)
+* Cores neutras (preto, branco e cinza)
+* Cores de feedback (sucesso e erro)
+
+---
+
+## 🔤 **TIPOGRAFIA**
+
+* Fonte: **Poppins**
+* Títulos: Bold
+* Textos: Regular
+
+---
+
+## 🔠 **ESCALA TIPOGRÁFICA**
+
+* Small: 14px
+* Parágrafo: 16px
+* H5: 18px
+* H4: 24px
+* H3: 28px
+* H2: 34px
+* H1: 40px
+
+---
+
+## ⚖️ **CONTRASTE**
+
+* Combinações de cores para melhor leitura
+* Destaque de informações importantes
+* Foco em acessibilidade
+
+---
+
+# 🛠️ **FERRAMENTA UTILIZADA**
+
+## Figma
+
+---
+
+# 📂 **APLICAÇÃO**
+
+## Este modelo será utilizado em:
+
+* Projetos escolares
+* Interfaces digitais
+* Protótipos
+* Apresentações
+
+---
+
+# 👨‍🏫 **ORIENTAÇÃO**
+
+## Prof. Raul
+
+## Prof. Denani
+
+---
+
+# ✅ **CONCLUSÃO**
+
+## A identidade visual padronizada melhora a organização, a clareza e o profissionalismo dos projetos, facilitando o desenvolvimento e a comunicação visual.
+
