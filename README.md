@@ -1,64 +1,33 @@
-💳 README — Identidade Visual Banco Itaú (Figma)
+💳 Projeto Figma - Identidade Visual Itaú
+🟧 Nome do Projeto
 
-📌 Sobre o Projeto
-Este projeto consiste na criação de uma identidade visual baseada no Banco Itaú, desenvolvida no Figma, com o objetivo de padronizar todos os trabalhos e projetos do curso.
+Identidade Visual Banco Itaú
 
-A identidade foi construída a partir de elementos visuais como cores, tipografia e contraste, formando um design system simples, moderno e consistente.
+👩‍💻 Nome do Aluno
 
-🎯 Objetivo
+Nicolly Silva Bonalume
 
-Desenvolver um modelo de identidade visual que:
+📚 Curso/Turma
 
-Padronize os projetos acadêmicos
-Melhore a organização visual
-Facilite a criação de interfaces
-Garanta consistência entre trabalhos
-🎨 Elementos da Identidade Visual
+Desenvolvimento de Sistemas (1IE-DS)
+
+🎯 Objetivo do Projeto
+
+Desenvolver uma identidade visual utilizando o Figma, aplicando conceitos de design como cores, tipografia e contraste, com o objetivo de criar um padrão visual organizado, moderno e consistente, inspirado na marca do Banco Itaú, para ser utilizado em todos os trabalhos e projetos do curso.
+
+🎨 Elementos Desenvolvidos
 🟧 Logo
-
-O logotipo segue o padrão visual do Itaú:
-
+Baseado na identidade do Itaú
 Cor predominante: laranja
-Tipografia branca
-Estilo simples e reconhecível
-🎨 Paleta de Cores
-
-Cores Primárias
-
-#CC4E00
-#FF6200
-#FF8133
-
-Cores Secundárias
-
-#539AE9
-#267FE3
-#1866BE
-
-Cores Neutras
-
-#403B3B
-#262323
-#0B0A0A
-#FFFFFF
-#F2F5F7
-#D3DDE4
-
-Cores de Feedback
-
-✅ Sucesso: #52D65F, #78E085, #2FC63E
-❌ Erro: #D11C00, #9E1500, #FF2705
+Estilo simples e moderno
+🎨 Cores
+Paleta primária (tons de laranja)
+Paleta secundária (tons de azul)
+Cores neutras (preto, branco e cinza)
+Cores de feedback (sucesso e erro)
 🔤 Tipografia
-
-Fonte utilizada:
-
-Poppins
-
-Aplicação:
-
-Títulos: Bold
-Subtítulos: SemiBold
-Texto: Regular
+Fonte: Poppins
+Aplicação: títulos, subtítulos e textos
 🔠 Escala Tipográfica
 Small: 14px
 Parágrafo: 16px
@@ -68,40 +37,24 @@ H3: 28px
 H2: 34px
 H1: 40px
 ⚖️ Contraste
-
-O sistema de contraste foi pensado para garantir:
-
-Boa legibilidade
-Acessibilidade
-Destaque visual
-
-Exemplos:
-
-Texto laranja em fundo claro
-Texto branco em fundo laranja
-Texto laranja em fundo escuro
+Combinações de cores para melhor leitura
+Destaque de informações importantes
+Foco em acessibilidade
 🛠️ Ferramenta Utilizada
-Figma (prototipação e criação do design system)
-📂 Como Utilizar
-Abrir o projeto no Figma
-Copiar os estilos (cores e tipografia)
-Aplicar nos seus projetos
-Manter o padrão visual definido
-📚 Aplicação no Curso
+Figma
+📂 Aplicação
 
-Este modelo deve ser utilizado em:
+Este modelo será utilizado em:
 
-Projetos de desenvolvimento de sistemas
-Interfaces UX/UI
-Apresentações escolares
-Trabalhos acadêmicos
+Projetos escolares
+Interfaces digitais
+Protótipos
+Apresentações
 👨‍🏫 Orientação
-
-Projeto orientado por:
 
 Prof. Raul
 Prof. Denani
 
 ✅ Conclusão
 
-A utilização de uma identidade visual padronizada garante organização, clareza e profissionalismo, além de facilitar o desenvolvimento de projetos e melhorar a experiência do usuário.
+A criação de uma identidade visual padronizada facilita a organização dos projetos, melhora a comunicação visual e traz mais profissionalismo para os trabalhos desenvolvidos.
